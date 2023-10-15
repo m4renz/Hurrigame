@@ -1,10 +1,6 @@
 import pygame
 
-# find the path of the current file and add the relative path files/TheFatRat_Time_Lapse.mp3 as the default path
-import os
-_CURRENT_FILE_PATH = os.path.dirname(os.path.realpath(__file__))
-
-_DEFAULT_AUDIO_PATH = 'audio/files/TheFatRat-Time-Lapse.wav'
+_DEFAULT_AUDIO_PATH = 'audio/files/yeah-18130.mp3'
 
 
 

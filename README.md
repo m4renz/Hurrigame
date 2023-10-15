@@ -26,3 +26,7 @@ pip install -r requirements.txt
 ### Scripts
 
 The audio subfolder contains scripts to control the audio output of the Raspberry Pi. WIP.
+
+### Sound copyright
+
+'yeah-18130.mp3' for testing and debugging from <a href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=18130">Pixabay</a>
